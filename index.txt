@@ -3,5 +3,5 @@
 #subscription-userinfo: expire=0; total=0; used=999
 #announce: Набор лучших серверов из интернета! 🌐
 
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.24:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-de-1.edgeflux.ru##LTE 🌐 | Белые Списки
+trojan://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.24:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-de-1.edgeflux.ru#LTE 🌐 | Белые Списки
 vless://22f65fc9-4dee-456c-a213-2a025389af31@109.120.189.213:58652?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=VZq5atMvE_1AW0nXcn4opuxZdrSu3zy3kP7YTdGj6EQ&sid=28&spx=%2FGWZCgGnbVzCEVS8#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
