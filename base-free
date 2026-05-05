@@ -7,10 +7,4 @@
 #sub-info-button-text: Управление подпиской
 #sub-expire: 1
 
-https://sub1/vpn.txt
-https://sub2/vpn.txt
-https://sub3/vpn.txt
-https://sub4/vpn.txt
-https://sub5/vpn.txt
-https://sub6/vpn.txt
-https://sub7/vpn.txt
+https://raw.githubusercontent.com/Ship1003/HidlyVPN/refs/heads/main/index.txt
