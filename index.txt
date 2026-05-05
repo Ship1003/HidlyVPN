@@ -1,6 +1,6 @@
-#profile-title: HidlyVPN | 2000+ Servers
-#profile-update-interval: 12
-#subscription-userinfo: expire=0; total=0; used=999
+#profile-title: HidlyVPN - Универсальная Версия 😍
+#profile-update-interval: 3
+#subscription-userinfo: expire=1; total=1; used=1
 #announce: Набор лучших серверов из интернета! 🌐
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&headerType=none#LTE 🌐 | Белые Списки
@@ -304,3 +304,11 @@ vless://69a2af58-d74a-44ca-864a-e09b493f4274@141.98.191.78:443?type=xhttp&securi
 vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?type=tcp&security=reality&fp=chrome&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&sni=vk.ru&alpn=http/1.1#🌐%20#298%20[t.me/hidly0]
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?alpn=http%25252F1.1&flow=xtls-rprx-vision&fp=chrome&headertype=none%25252C&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#🌐%20#299%20[t.me/hidly0]
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?flow=xtls-rprx-vision&fp=chrome&headertype=none%2522%252C&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#🌐%20#300%20[t.me/hidly0]
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&headerType=none#Wi-Fi ⚫ | ВПН
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@153.76.122.208:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=gwapp-pl01.freenets.store&pbk=6HLd5scfmPQ0J265arSRZJzPSr1HrVQ41QxYOTnxjCo&spx=/#🇨🇳 Китай #1
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?type=ws&host=daluan.eu.org&path=/&security=tls&sni=daluan.eu.org&fp=chrome&allowInsecure=0#🇨🇳 Китай #2
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?type=ws&host=daluan.eu.org&path=/&security=tls&sni=daluan.eu.org&fp=chrome&allowInsecure=0#🇰🇵 Северная Корея #1
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.135:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=cluster-de-1.firstvideocdn.ru&fp=chrome&allowInsecure=0#🇰🇵 Северная Корея #2
+vless://b504bb7d-8b8c-4a3a-91fe-863ed1fca259@144.31.3.104:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=pl1.nfnpx.online&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&sid=3ee5bf27b15a6384#🇮🇷 Иран #1
+vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@185.72.86.129:59999?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yastatic.net&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=7c8d9e0f#🇮🇷 Иран #2
